@@ -15,13 +15,13 @@ K-Means clustering was selected due to the approximately normal structure of the
 
 \## Identified Plate Approach Clusters
 
-Selective Batters (196 players)
+Selective Batters (196 players):
 These batters hold the Lowest swing rates, the highest walk and strikeout rates, and the strongest overall offensive production. This group notably underperforms expected statistics, indicating untapped potential or unluckiness from underlying statistics. Despite high strikeout totals, this group yields the highest average offensive value.
 
-Swing-Heavy Batters (251 players)
+Swing-Heavy Batters (251 players):
 These batters hold the highest swing rates, the lowest walk rates, and elevated strikeouts. Their performance and expected performance outcomes tend to align closely with league averages, implying a high-variance, aggression-based approach.
 
-Contact Batters (222 players)
+Contact Batters (222 players):
 These batters hold the highest contact rates and the lowest strikeout rates. They rely on putting the ball in play and exhibit very similar performance metrics as Swing-Heavy Batters.
 
 
