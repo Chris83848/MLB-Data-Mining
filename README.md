@@ -28,10 +28,10 @@ These batters hold the highest contact rates and the lowest strikeout rates. The
 \## Key Findings
 
 - MLB hitters naturally separate into three distinct plate-approach archetypes: selective, contact-based, swing-based
-- Plate discipline does not necessarily correspond to reduced strikeouts.
-- Strikeout rate alone does not strongly impact weighted on-base average.
-- Selective batters demonstrate the highest average offensive production despite higher strikeout rates.
-- Observed and expected performance statistics differentiate most strongly within the selective cluster.
+- Plate discipline does not necessarily correspond to reduced strikeouts
+- Strikeout rate alone does not strongly impact weighted on-base average
+- Selective batters demonstrate the highest average offensive production despite higher strikeout rates
+- Observed and expected performance statistics differentiate most strongly within the selective cluster
 - Players can excel under any cluster category
 
 
