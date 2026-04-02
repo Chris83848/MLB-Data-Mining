@@ -4,6 +4,11 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Chris83848/MLB-Data-Mining/HEAD)
 
 
+## Project Summary
+
+This project applies clustering techniques (K-Means) and anomaly detection to MLB hitter data to identify patterns in plate discipline and highlight common exceptions and unique players. Batters are grouped based on metrics such as Z-Swing% and O-Swing%, revealing distinct approaches at the plate. The biggest insight is that plate discipline alone does not predict offensive performance, and that anomalies are independent of one another, underscoring the multitude of ways to succeed offensively and the overall complexity of hitting.
+
+
 ## Repository Structure
 
 - data/ -> dataset used for analysis
@@ -30,11 +35,6 @@ Launch Jupyter Notebook:
 jupyter notebook
 
 Then open the notebook in notebooks/ and run all cells.
-
-
-## Project Summary
-
-This project applies clustering techniques (K-Means) and anomaly detection to MLB hitter data to identify patterns in plate discipline and highlight common exceptions and unique players. Batters are grouped based on metrics such as Z-Swing% and O-Swing%, revealing distinct approaches at the plate. The biggest insight is that plate discipline alone does not predict offensive performance, and that anomalies are independent of one another, underscoring the multitude of ways to succeed offensively and the overall complexity of hitting.
 
 
 ## Example Visualization
