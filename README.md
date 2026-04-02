@@ -37,7 +37,7 @@ This project applies clustering techniques (K-Means) and anomaly detection to ML
 
 ## Example Visualization
 
-
+<img src="graphs/Cluster_Chart.png" alt="Alt text" width="1000">
 
 
 \## Project Description
