@@ -5,7 +5,7 @@
 - data/ -> dataset used for analysis
 - notebooks/ -> Jupyter notebook with full analysis
 - docs/ -> milestone reports
-- graphs/
+- graphs/ -> miscellaneous chart images
 - requirements.txt -> Python dependencies required to run the project
 - README.md -> Project overview and instructions
 
