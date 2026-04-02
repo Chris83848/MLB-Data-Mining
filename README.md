@@ -7,6 +7,11 @@ Clone the repository:
 git clone https://github.com/Chris83848/MLB-Data-Mining
 
 
+## Run this project in your browser
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Chris83848/MLB-Data-Mining/HEAD)
+
+
 
 \## Project Description
 
