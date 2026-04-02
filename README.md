@@ -4,7 +4,8 @@
 
 - data/ -> dataset used for analysis
 - notebooks/ -> Jupyter notebook with full analysis
-- doc/ -> milestone reports
+- docs/ -> milestone reports
+- graphs/
 - requirements.txt -> Python dependencies required to run the project
 - README.md -> Project overview and instructions
 
