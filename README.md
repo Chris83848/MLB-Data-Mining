@@ -1,5 +1,11 @@
 \# Discovering Plate Approach Patterns Among Major League Baseball (MLB) Batters Through Data Mining
 
+\## How To Run
+
+Clone the repository:
+
+git clone https://github.com/Chris83848/MLB-Data-Mining
+
 
 
 \## Project Description
