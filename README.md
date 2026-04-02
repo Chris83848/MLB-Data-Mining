@@ -1,37 +1,43 @@
 # Discovering Plate Approach Patterns Among Major League Baseball (MLB) Batters Through Data Mining
 
-## Summary
+## Repository Structure
 
-This project clusters MLB hitters into three archetypes based on plate disciplines and highlights anomaly exceptions to them, both structurally and performance-wise.
+- data/ -> dataset used for analysis
+- notebooks/ -> Jupyter notebook with full analysis
+- doc/ -> milestone reports
+- requirements.txt -> Python dependencies required to run the project
+- README.md -> Project overview and instructions
 
-### Clusters
-- Selective
-- Swing-Heavy
-- Contact
+## Run Project in Browser
 
-### Anomalies
-- Outlier
-- Hybrid
-- Overperformer
-- Underperformer
+Allow 1-2 minutes for the environment to build:
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Chris83848/MLB-Data-Mining/HEAD)
 
 ## How To Run
 
 Clone the repository:
 
 git clone https://github.com/Chris83848/MLB-Data-Mining
+cd MLB-Data-Mining
+
+Install Dependencies:
+
+pip install -r requirements.txt
+
+Launch Jupyter Notebook:
+
+jupyter notebook
+
+Then open the notebook in notebooks/ and run all cells.
+
+## Summary
+
+This project applies clustering techniques (K-Means) and anomaly detection to MLB hitter data to identify patterns in plate discipline and highlight common exceptions and unique players. Batters are grouped based on metrics such as Z-Swing% and O-Swing%, revealing distinct approaches at the plate. The biggest insight is that plate discipline alone does not predict offensive performance, and that anomalies are independent of one another, underscoring the multitude of ways to succeed offensively and the overall complexity of hitting.
+
+## Example Visualization
 
 
-## Run project in browser
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Chris83848/MLB-Data-Mining/HEAD)
-
-
-## Repository Structure
-
-- data/ -> dataset used for analysis
-- notebooks/ -> Jupyter notebook with full analysis
-- doc/ -> milestone reports
 
 
 \## Project Description
