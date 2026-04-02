@@ -1,5 +1,9 @@
 # Discovering Plate Approach Patterns Among Major League Baseball (MLB) Batters Through Data Mining
 
+## Run Project in Browser
+
+Allow 1-2 minutes for the environment to build:
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Chris83848/MLB-Data-Mining/HEAD)
 
 ## Summary
