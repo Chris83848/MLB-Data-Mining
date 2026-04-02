@@ -2,6 +2,7 @@
 
 ![Python Version](https://img.shields.io/badge/python-3.13-blue.svg)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Chris83848/MLB-Data-Mining/HEAD)
 
 ## Repository Structure
 
