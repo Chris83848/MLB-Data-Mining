@@ -1,5 +1,20 @@
 # Discovering Plate Approach Patterns Among Major League Baseball (MLB) Batters Through Data Mining
 
+## Summary
+
+This project clusters MLB hitters into three archetypes based on plate disciplines and highlights anomaly exceptions to them, both structurally and performance-wise.
+
+### Clusters
+- Selective
+- Swing-Heavy
+- Contact
+
+### Anomalies
+- Outlier
+- Hybrid
+- Overperformer
+- Underperformer
+
 ## How To Run
 
 Clone the repository:
@@ -7,10 +22,16 @@ Clone the repository:
 git clone https://github.com/Chris83848/MLB-Data-Mining
 
 
-
+## Run project in browser
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Chris83848/MLB-Data-Mining/HEAD)
 
+
+## Repository Structure
+
+- data/ -> dataset used for analysis
+- notebooks/ -> Jupyter notebook with full analysis
+- doc/ -> milestone reports
 
 
 \## Project Description
