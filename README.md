@@ -33,18 +33,9 @@ Then open the notebook in notebooks/ and run all cells.
 
 ## Summary
 
-This project clusters MLB hitters into three archetypes based on plate disciplines and highlights anomaly exceptions to them, both structurally and performance-wise.
+This project applies clustering techniques (K-Means) and anomaly detection to MLB hitter data to identify patterns in plate discipline and highlight common exceptions and unique players. Batters are grouped based on metrics such as Z-Swing% and O-Swing%, revealing distinct approaches at the plate. The biggest insight is that plate discipline alone does not predict offensive performance, and that anomalies are independent of one another, underscoring the multitude of ways to succeed offensively and the overall complexity of hitting.
 
-### Clusters
-- Selective
-- Swing-Heavy
-- Contact
-
-### Anomalies
-- Outlier
-- Hybrid
-- Overperformer
-- Underperformer
+## Example Visualization
 
 
 
