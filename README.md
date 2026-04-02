@@ -5,6 +5,8 @@
 - data/ -> dataset used for analysis
 - notebooks/ -> Jupyter notebook with full analysis
 - doc/ -> milestone reports
+- requirements.txt -> Python dependencies required to run the project
+- README.md -> Project overview and instructions
 
 ## Run Project in Browser
 
