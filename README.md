@@ -1,5 +1,11 @@
 # Discovering Plate Approach Patterns Among Major League Baseball (MLB) Batters Through Data Mining
 
+## Repository Structure
+
+- data/ -> dataset used for analysis
+- notebooks/ -> Jupyter notebook with full analysis
+- doc/ -> milestone reports
+
 ## Run Project in Browser
 
 Allow 1-2 minutes for the environment to build:
@@ -39,14 +45,6 @@ This project clusters MLB hitters into three archetypes based on plate disciplin
 - Underperformer
 
 
-
-
-
-## Repository Structure
-
-- data/ -> dataset used for analysis
-- notebooks/ -> Jupyter notebook with full analysis
-- doc/ -> milestone reports
 
 
 \## Project Description
