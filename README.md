@@ -20,6 +20,18 @@ This project clusters MLB hitters into three archetypes based on plate disciplin
 Clone the repository:
 
 git clone https://github.com/Chris83848/MLB-Data-Mining
+cd MLB-Data-Mining
+
+Install Dependencies:
+
+pip install -r requirements.txt
+
+Launch Jupyter Notebook:
+
+jupyter notebook
+
+Then open the notebook in notebooks/ and run all cells.
+
 
 
 ## Run project in browser
