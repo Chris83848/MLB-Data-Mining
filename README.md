@@ -1,5 +1,7 @@
 # Discovering Plate Approach Patterns Among Major League Baseball (MLB) Batters Through Data Mining
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Chris83848/MLB-Data-Mining/HEAD)
+
 ## Summary
 
 This project clusters MLB hitters into three archetypes based on plate disciplines and highlights anomaly exceptions to them, both structurally and performance-wise.
