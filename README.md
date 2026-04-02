@@ -12,6 +12,8 @@ Feature engineering included creating a performance differential metric to measu
 
 K-Means clustering was selected due to the approximately normal structure of the dataset and the assumptions of spherical clusters. Three clusters were determined using the elbow method and silhouette scores.
 
+Anomaly detection located players who deviated from their respective clusters, both structurally through plate approaches and performance-wise through departures from expected performance results. Euclidean cluster centroid distances were calculated for these identifications, followed by flagging anomalies within the upper 5% of each respective calculation, ensuring appropriate anomalies without being overly strict or permitting.
+
 
 \## Identified Plate Approach Clusters
 
