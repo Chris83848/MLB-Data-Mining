@@ -6,7 +6,7 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Chris83848/MLB-Data-Mining/HEAD)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-![Cluster visualization](graphs/cluster_chart.png)
+![Cluster visualization](graphs/Conference_Poster.png)
 
 ## Project Summary
 
@@ -78,5 +78,3 @@ Qualified batters, 2021–2025 seasons, sourced from the [Baseball Savant](https
 ## Author
 
 **Christopher Harris** — [GitHub](https://github.com/Chris83848) · [LinkedIn](https://www.linkedin.com/in/christopher-harris9/)
-
-![Cluster visualization](graphs/Conference_Poster.png)
